@@ -1,16 +1,20 @@
-# todolist
+## Notes App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project uses Flutter with SQLite Database to store the notes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The operations enabled here are: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   1. Add Note  
+   2. Edit Note  
+   3. Delete Note
+
+
+
+
+
+This project is a good introduction to creating and managing the in and outs of a database with SQLite.  
+
+With a simple UI UX of the notes adn the general interface of the app.
